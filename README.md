@@ -1,4 +1,4 @@
-<h1 align="center">Sup! I'm Gabriel Trigueiro</h1>
+<h1 align="center">Hi! I'm Gabriel Trigueiro</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Clientx](https://github.com/melogtm/Clientx.git)
