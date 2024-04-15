@@ -1,13 +1,13 @@
 <h1 align="center">Hi! I'm Gabriel Trigueiro</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently integrating into university life at [Universidade de São Paulo](https://www5.each.usp.br/)
+- 🏛️ I’m currently integrating into university life at [Universidade de São Paulo](https://www5.each.usp.br/).
 
-- 🌱 I’m currently learning **Java and Cloud Services (AWS)**
+- 🌱 I’m currently learning **Java and Cloud Services (AWS)**.
 
-- 📫 How to reach me **gabriel.trigueiromelo@gmail.com**
+- 📫 How to reach me: **gabriel.trigueiromelo@gmail.com**
 
-- 📄 Know more about me [https://bit.ly/cvtrigueiro](https://bit.ly/cvtrigueiro)
+- 📄 Know more about me [in my curriculum](https://bit.ly/cvtrigueiro)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
