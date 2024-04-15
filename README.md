@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Gabriel Trigueiro</h1>
+<h1 align="center">Hi! I'm Gabriel Trigueiro 🤙</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🏛️ I’m currently integrating into university life at [Universidade de São Paulo](https://www5.each.usp.br/).
