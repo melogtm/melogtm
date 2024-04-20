@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **gabriel.trigueiromelo@gmail.com**
 
-- 📄 Know more about me [in my curriculum](https://bit.ly/cvtrigueiro)!
+- 📄 Know more about me [in my curriculum](https://drive.google.com/file/d/1EKuhwNnPpoDw71icpCk0A-ACbGhgkdOz/view?usp=sharing)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
