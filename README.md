@@ -3,7 +3,7 @@
 
 - 🏛️ I’m currently integrating into university life at [Universidade de São Paulo](https://www5.each.usp.br/).
 
-- 🌱 I’m currently learning **Java and Cloud Services (AWS)**.
+- 🌱 I’m currently learning **Java and Spring Ecosystem**.
 
 - 📫 How to reach me: **gabriel.trigueiromelo@gmail.com**
 
