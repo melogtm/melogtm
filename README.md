@@ -1,15 +1,13 @@
 <h1 align="center">Hi! I'm Gabriel Trigueiro 🤙</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🏛️ I’m currently integrating into university life at [Universidade de São Paulo](https://www5.each.usp.br/).
+- 🏛️ Cursando Sistemas de Informações na [Universidade de São Paulo](https://www5.each.usp.br/).
 
-- 🌱 I’m currently learning **Java and Spring Ecosystem**.
+- 🌱 Estou aprendendo sobre **Java e Spring Ecosystem**.
 
-- 📫 How to reach me: **gabriel.trigueiromelo@gmail.com**
+- 📫 Contato: **gabriel.trigueiromelo@gmail.com**
 
-- 📄 Know more about me [in my curriculum](https://drive.google.com/file/d/1EKuhwNnPpoDw71icpCk0A-ACbGhgkdOz/view?usp=sharing)!
+- 📄 Saiba mais sobre mim [com meu currículo](https://drive.google.com/file/d/11PaRjXv-BYy76CtXXkCQ9BaSmasIN-Ia/view?usp=sharing)!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrieltrigueiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrieltrigueiro/" height="30" width="40" /></a>
 <a href="https://instagram.com/trigueirogabrielmelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trigueirogabrielmelo" height="30" width="40" /></a>
