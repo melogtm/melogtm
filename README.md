@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Gabriel Trigueiro 🤙</h1>
+<h1 align="center">Olá! Sou Gabriel Trigueiro 🤙</h1>
 
 - 🏛️ Cursando Sistemas de Informações na [Universidade de São Paulo](https://www5.each.usp.br/).
 
