@@ -1,7 +1,1 @@
-<h2 align="left">Hello, friend 👋!</h2>
-
-<img align="center" height="150" src="https://media.tenor.com/n447dmLTesAAAAAM/kagura-azumanga.gif"  />
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/melogtm/melogtm/output/snake.svg" alt="Snake animation" />
-
+Hatred of the invading enemy is the most sacred and humane feeling. But it is born with such a pain of heart and torment of the soul that God forbid anyone to experience it a second time.
