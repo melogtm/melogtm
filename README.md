@@ -1,1 +1,3 @@
-Hatred of the invading enemy is the most sacred and humane feeling. But it is born with such a pain of heart and torment of the soul that God forbid anyone to experience it a second time.
+![](/walter-walter-white.gif)
+
+Keep groovin' babe
